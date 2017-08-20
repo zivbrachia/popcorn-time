@@ -1,0 +1,25 @@
+{
+  "name": "popcorn-time",
+  "version": "1.0.0",
+  "description": "Enables complex queries on popcorn db",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zivbrachia/popcorn-time.git"
+  },
+  "keywords": [
+    "popcorn-time",
+    "popcorn-time",
+    "api",
+    "queries"
+  ],
+  "author": "Ziv Brachia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zivbrachia/popcorn-time/issues"
+  },
+  "homepage": "https://github.com/zivbrachia/popcorn-time#readme"
+}
